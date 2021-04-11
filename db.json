@@ -1,0 +1,34 @@
+{
+     "users": [
+        {
+            "id":1,
+            "name":"Gabriel",
+            "email":"gmg0131@hotmail.com",
+            "xp":0,
+            "highscore":0
+
+        }
+
+     ],
+
+     "categories": [
+     {
+        "id": 1,
+        "name": "Families",
+        "image": "Eschweiler"
+        
+      },
+      {
+        "id": 2,
+        "name": "Numbers",
+        "image": "Four"
+        
+      },
+      {
+        "id": 3,
+        "name": "Ann",
+        "image": "Smith"
+       
+      }
+    ]
+  }
